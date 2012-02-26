@@ -1,9 +1,0 @@
-C:\Users\Dario\documents\visual studio 2010\Projects\rePatchMe\rePatchMe\bin\Debug\rePatchMe.exe
-C:\Users\Dario\documents\visual studio 2010\Projects\rePatchMe\rePatchMe\bin\Debug\rePatchMe.pdb
-C:\Users\Dario\documents\visual studio 2010\Projects\rePatchMe\rePatchMe\obj\x86\Debug\ResolveAssemblyReference.cache
-C:\Users\Dario\documents\visual studio 2010\Projects\rePatchMe\rePatchMe\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
-C:\Users\Dario\documents\visual studio 2010\Projects\rePatchMe\rePatchMe\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
-C:\Users\Dario\documents\visual studio 2010\Projects\rePatchMe\rePatchMe\obj\x86\Debug\GenerateResource.read.1.tlog
-C:\Users\Dario\documents\visual studio 2010\Projects\rePatchMe\rePatchMe\obj\x86\Debug\GenerateResource.write.1.tlog
-C:\Users\Dario\documents\visual studio 2010\Projects\rePatchMe\rePatchMe\obj\x86\Debug\rePatchMe.exe
-C:\Users\Dario\documents\visual studio 2010\Projects\rePatchMe\rePatchMe\obj\x86\Debug\rePatchMe.pdb
